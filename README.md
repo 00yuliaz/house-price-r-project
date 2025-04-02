@@ -21,6 +21,7 @@ This project predicts house sale prices using linear regression. The dataset com
 - All variables statistically significant (p < 0.001)
 
 ## 📷 Visuals
+![Prediction](images/predicted_vs_actual.png)
 - Scatter plot: GrLivArea vs SalePrice
 - Correlation heatmap
 - Predicted vs Actual Sale Price
